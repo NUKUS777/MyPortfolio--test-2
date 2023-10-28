@@ -16,7 +16,6 @@ function Header() {
         <div className="me absolute   ">
         <img className='object-cover  h-[90%] w-[400px] float-left mr-4' src={Me} alt="" />
         </div>
-        <a href="" className='scroll__down'>Scroll Down</a>
       </div>
     </header>
   )
